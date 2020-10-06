@@ -8,6 +8,9 @@ header>img{
 #covid{
 	float: auto;
 }
+.navbar{
+	width: 100%;
+}
 .container{
 	background-color: #5A0786;
 	width: 100%
@@ -24,10 +27,15 @@ section img{
 	width: 400px;
 }
 footer{
-	background-color: #5A0786;
+	background-color: #2B1B53;
 	padding: 0;
 	margin: 0;
 }
-.nav{
+.nav li a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
 
+.nav div li{
+	color: #FFFFFF;
 }
