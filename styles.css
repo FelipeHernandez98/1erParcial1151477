@@ -11,4 +11,23 @@ header>img{
 .container{
 	background-color: #5A0786;
 	width: 100%
+	height:40px;
+	padding: 0;
+}
+
+.nav-link{
+	color: #ffffff;
+}
+
+section img{
+	height: 200px;
+	width: 400px;
+}
+footer{
+	background-color: #5A0786;
+	padding: 0;
+	margin: 0;
+}
+.nav{
+
 }
