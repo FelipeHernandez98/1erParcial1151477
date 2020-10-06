@@ -10,6 +10,11 @@ header>img{
 }
 .navbar{
 	width: 100%;
+
+}
+.barra{
+	background-color: #5A0786;
+	color: #ffffff;
 }
 .container{
 	background-color: #5A0786;
@@ -38,4 +43,8 @@ footer{
 
 .nav div li{
 	color: #FFFFFF;
+}
+h5{
+	color: #FFFFFF;
+	font-size: 18px;
 }
