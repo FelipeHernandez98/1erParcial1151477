@@ -1,0 +1,14 @@
+body{
+
+}
+header>img{
+	height: 200px;
+	width: 200px;
+}
+#covid{
+	float: auto;
+}
+.container{
+	background-color: #5A0786;
+	width: 100%
+}
